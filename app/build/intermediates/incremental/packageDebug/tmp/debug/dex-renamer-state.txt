@@ -1,0 +1,4 @@
+#Sun Apr 28 16:37:06 JST 2019
+base.0=/Users/a1/Documents/TestLocation1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

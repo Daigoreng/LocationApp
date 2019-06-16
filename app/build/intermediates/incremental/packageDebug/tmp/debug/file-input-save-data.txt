@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 28 16:37:06 JST 2019
+0.baseType=DIRECTORY
+0.base=/Users/a1/Documents/TestLocation1/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
